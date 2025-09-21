@@ -1,0 +1,25 @@
+{
+  "name": "wk-8-starhluga",
+  "version": "1.0.0",
+  "description": "Question 1: Build a Complete Database Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarHluga/wk-8-StarHluga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarHluga/wk-8-StarHluga/issues"
+  },
+  "homepage": "https://github.com/StarHluga/wk-8-StarHluga#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.0"
+  }
+}
